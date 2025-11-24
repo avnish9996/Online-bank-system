@@ -1,7 +1,0 @@
-com\example\bank\servlets\AuthServlet.class
-com\example\bank\servlets\LogoutServlet.class
-com\example\bank\servlets\TransferServlet.class
-com\example\bank\util\DBConnection.class
-com\example\bank\dao\AccountDAO.class
-com\example\bank\servlets\AccountServlet.class
-com\example\bank\model\Account.class
